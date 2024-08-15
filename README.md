@@ -16,4 +16,4 @@ Exercício 8: Calculadora de Salário
 
 Exercício 9: DESAFIO: Calculadora de Parcelas com Juros
 
-10. O usuário coloca um numero, e o programa diz se é par ou impar
+Exercício 10: O usuário coloca um numero, e o programa diz se é par ou impar
