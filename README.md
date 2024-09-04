@@ -1,3 +1,6 @@
+Exercícios do meu primeiro contato com javascript
+
+
 Exercício 1: Calculadora de Soma
 
 Exercício 2: Calculadora de Idade
